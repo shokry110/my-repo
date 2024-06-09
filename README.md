@@ -1,5 +1,4 @@
 # my-repo
-Hello, Pulumi
 import * as pulumi from "@pulumi/pulumi";
 import * as github from "@pulumi/github";
 
